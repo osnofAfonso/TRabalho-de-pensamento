@@ -1,0 +1,60 @@
+#background{
+  background-color: rgba(189, 173, 201, 0.911);
+}
+
+.logo{
+  text-align:center;
+  font-size: 32px;
+  border-top: solid  rgba(171, 157, 182, 0.911) 10px;
+  border-bottom:solid rgba(171, 157, 182, 0.911) 10px;
+  background-color:  rgba(189, 173, 201, 0.911);
+}
+
+.Lema{
+      margin-left: 1300px;
+      border: rgba(171, 157, 182, 0.911) solid px;
+      background-color: rgba(195, 180, 206, 0.911);
+
+}
+
+.Informação_inicial{
+    margin-left: 150px;
+    text-shadow: 1px 1px 2px rgb(134, 48, 8);
+    font-size:xx-large;
+}
+
+.Informação_inicial{
+  text-align: center;
+  margin: 3%;
+}
+
+.cont_inicial{
+  font-size: 24px;
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+.casamento_diana{
+  width: 15%;
+
+
+}
+
+.hiperlink{
+  text-align: center;
+}
+
+.Bordadaflor1{
+  width: 25%;
+}
+
+
+.descriçãoflor{
+  text-align: center;
+  font-size: 24px;
+}
+
+h2{
+  text-align: center;
+  font-size: 30px;
+}
